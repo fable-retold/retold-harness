@@ -1,6 +1,6 @@
 # Retold Harness
 
-A composable REST API harness for the [Retold](https://github.com/stevenvelozo/retold) framework. It combines pluggable schemas and database providers into a running application with auto-generated CRUD endpoints, pre-loaded sample data, and a terminal-based management tool.
+A composable REST API harness for the [Retold](https://github.com/fable-retold/retold) framework. It combines pluggable schemas and database providers into a running application with auto-generated CRUD endpoints, pre-loaded sample data, and a terminal-based management tool.
 
 ## What It Does
 
